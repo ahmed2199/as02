@@ -1,1 +1,1 @@
-# as02
+https://www.kaggle.com/c/titanic/submit
